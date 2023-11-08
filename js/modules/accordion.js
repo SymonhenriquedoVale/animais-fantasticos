@@ -14,4 +14,3 @@ export default function initAccordion() {
     accordionList[0].nextElementSibling.classList.add(activeClass);
   }
 }
-console.log("teste");
